@@ -1,0 +1,27 @@
+{
+  "name": "gulp-mocha-browserify-suite",
+  "version": "0.1.0",
+  "description": "Generates a suite file for Mocha on the fly from a gulp.src glob what you can pass to browserify for bundling",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Tarsoly András",
+    "email": "tarsolya@gmail.com",
+    "url": "https://github.com/tarsolya"
+  },
+  "repository": "tarsolya/gulp-mocha-browserify-suite",
+  "scripts": {
+  },
+  "dependencies": {
+    "through": "*",
+    "gulp-util": "~2.2.0"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.10.26",
+    "npm": ">=1.2.10"
+  },
+  "license": "MIT"
+}
